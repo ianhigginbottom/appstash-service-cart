@@ -6,6 +6,7 @@ description: "Central cart service"
 vcsroot: "https://travis-ci.org/ianhigginbottom/appstash-service-cart/"
 lifecycle: production
 tags:
+  - PIVIO
   - Java9
   - Oracle
 links:
