@@ -20,9 +20,11 @@
     <artifactId>nlog4j</artifactId>
     <version>1.2.18</version>
 </dependency>
-
-
-
+<dependency>
+    <groupId>test</groupId>
+    <artifactId>test2</artifactId>
+    <version>1.0</version>
+</dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
